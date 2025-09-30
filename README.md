@@ -35,7 +35,7 @@ Prediction for job selection: No
 
 # Results
 Decision Tree Visualization
-![Decision Tree](assets/decision_tree.png)
+![Decision Tree](assets/DECISION%20TREE.png)
 
 
 
